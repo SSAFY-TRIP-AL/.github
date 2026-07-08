@@ -1,4 +1,6 @@
-# ![Trip Baton](https://github.com/user-attachments/assets/b3db6ff1-3161-489e-ba68-2a08b732ca68) Trip Baton
+<!-- # ![Trip Baton](https://github.com/user-attachments/assets/b3db6ff1-3161-489e-ba68-2a08b732ca68) Trip Baton -->
+
+# Trip Baton
 
 ## SSAFY 1학기 최종 관통 프로젝트
 
